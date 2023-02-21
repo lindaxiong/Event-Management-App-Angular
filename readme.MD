@@ -1,6 +1,9 @@
+
 # AngularTest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+To install the Angular CLI, open a terminal window and run the following command:
+npm install -g @angular/cli
 
 ## Development server
 
